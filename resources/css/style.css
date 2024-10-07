@@ -1,0 +1,42 @@
+/* General styles */
+body {
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header styles */
+h1, h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Link styles */
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/* Video styles */
+video {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+/* Image styles */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+/* Footer styles */
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    color: #333;
+}
